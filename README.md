@@ -1,2 +1,1 @@
-# -
-个人学习统计学习整理的笔记，方便将所学的知识吸收~
+Personal learning statistics learn to organize the notes, easy to learn the knowledge of the absorption ~
